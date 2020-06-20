@@ -1,0 +1,16 @@
+.row {
+  margin-left: 30px;
+}
+.row > div {
+  border: 2px solid purple;
+  background-color: gray;
+  width: 96%;
+  padding: 10px;
+  margin-top: 50px;
+}
+#header-nav {
+  background-color: red;
+  border-radius: 0;
+  border: 0;
+}
+
